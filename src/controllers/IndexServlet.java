@@ -1,3 +1,4 @@
+//データベースから複数のメッセージ情報を取得して一覧表示するサーブレット
 package controllers;
 
 import java.io.IOException;
