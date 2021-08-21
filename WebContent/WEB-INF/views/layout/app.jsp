@@ -4,6 +4,9 @@
     <head>
         <meta charset="UTF-8">
         <title>メッセージボード</title>
+        <link rel="stylesheet" href="<c:url value='/WEB-INF/css/reset.css' />">
+        <link rel="stylesheet" href="<c:url value='/WEB-INF/css/style.css' />">
+    </head>
     </head>
     <body>
         <div id="wrapper">
